@@ -30,17 +30,10 @@ class report implements printable{
 public class Task23 {
     public static void main(String[] args) {
         report r = new report();
-        r.ward();
-
- circle a = new circle() ;
-a.draw();
-rectangle t = new rectangle();
-t.draw();
-    
-
-
-
-
-
+        r.ward();
+        circle a = new circle() ;
+        a.draw();
+        rectangle t = new rectangle();
+        t.draw();
     }
 }
