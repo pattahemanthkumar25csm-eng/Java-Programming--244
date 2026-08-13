@@ -1,4 +1,4 @@
-/*class person{
+class person{
     String name;
     int age;
     void getperson(String name , int age){
@@ -46,35 +46,12 @@ f.show();
 
     }
 }
-*/
+
 
 
 /**
  * Task21 of another program
- */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ */
 public class Task21 {
 static class Area{
 double area (double radius){
