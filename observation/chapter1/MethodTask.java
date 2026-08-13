@@ -19,7 +19,7 @@ public class MethodTask {
 
     }
 }
-    
+  /*  
 
 //MethodTask of 2nd problem is prime number
  
@@ -45,8 +45,8 @@ public static void main(String[] args) {
 else
 System.out.println("not a prime number");
 }
-}
-
+}*/
+/*
 
 // MethodTask of 3rd problrem
  
@@ -68,11 +68,11 @@ static int max(int a , int b){
        System.out.println("maximum is " + max);
     }
 }
-
+*/
 
 /**
  * MethodTask of 4th problem
- */
+ 
 public class MethodTask {
    static double area(double radius){
     return 3.14 * radius *radius;
@@ -88,7 +88,7 @@ public static void main(String[] args) {
 }
     
 }
-
+*/
 
 
 
