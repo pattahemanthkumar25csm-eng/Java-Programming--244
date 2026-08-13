@@ -13,8 +13,8 @@ public class ConditionalState { // first program checks given number is even or 
          }
         
     }
-}
-ConditionalState  second problem 
+}/*
+//ConditionalState  second problem 
  
 public class ConditionalState {
 
@@ -37,9 +37,9 @@ else{
 }
     }
 }
-    
-
-ConditionalState third problem is grade percentage
+    */
+/*
+// ConditionalState third problem is grade percentage
  
 public class ConditionalState {
 public static void main(String[] args) {
@@ -61,9 +61,10 @@ else {
 }
 }    
 }
+*/
+/*
 
-
- ConditionalState 4th problem day of week
+ //ConditionalState 4th problem day of week
  
 public class ConditionalState {
 public static void main(String[] args) {
@@ -102,4 +103,4 @@ switch (day) {
 }
     
 }
-}
+}*/
