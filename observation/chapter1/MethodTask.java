@@ -1,6 +1,6 @@
 import java.util.Scanner;
 // task on methods of 1st problem
-/* 
+
 public class MethodTask {
     static int factorial(int n){
         int fact =1 ;
@@ -19,10 +19,9 @@ public class MethodTask {
 
     }
 }
-    */
+    
 
-/**
- * MethodTask of 2nd problem is prime number
+//MethodTask of 2nd problem is prime number
  
 public class MethodTask {
 
@@ -47,10 +46,9 @@ else
 System.out.println("not a prime number");
 }
 }
-*/
 
-/**
- * MethodTask of 3rd problrem
+
+// MethodTask of 3rd problrem
  
 public class MethodTask {
 
@@ -70,7 +68,7 @@ static int max(int a , int b){
        System.out.println("maximum is " + max);
     }
 }
-*/
+
 
 /**
  * MethodTask of 4th problem
