@@ -19,10 +19,6 @@ for(int i = 0 ; i < 5 ;i++){
     System.out.println("subject" + (i+1) + ":" + marks[i]);
 }
 System.out.println(" total is : " +total);
-System.out.println("average is :" + average);
-
-
-
-
+System.out.println("average is :" + average);
     }
 }
