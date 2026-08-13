@@ -51,7 +51,7 @@ f.show();
 
 /**
  * Task21 of another program
- */
+ 
 public class Task21 {
 static class Area{
 double area (double radius){
@@ -72,4 +72,4 @@ System.out.println("area of rectangle"+a.area(10,5));
 System.out.println("area of triangle" + a.area(3,5));
 }
     
-}
+}*/
