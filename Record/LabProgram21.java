@@ -1,7 +1,7 @@
 
 public class LabProgram21 {
     public static void main(String[] args) {
-        if(args.length != 3){
+        if(args.length != 5){
             System.out.println("usage: java marks <m1> <m2> <m3> <m4> <m5>");
            // return;
         }
