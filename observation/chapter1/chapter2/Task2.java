@@ -31,7 +31,7 @@ l.display();
 
 /**
  * Task2 o fencapsulation
- */
+ 
 class book{
    private int bookid;
   private  String  bookname;
@@ -78,7 +78,7 @@ public static void main(String[] args) {
 
 }
     
-}
+}*/
 
 
 
