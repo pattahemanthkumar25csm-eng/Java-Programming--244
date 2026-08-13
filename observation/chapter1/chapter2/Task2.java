@@ -1,4 +1,4 @@
-/*class book {
+class book {
     int bookid;
     String  bookname;
     String author;
@@ -28,7 +28,7 @@ b.display();
 l.display();
     }
 }
-*/
+
 /**
  * Task2 o fencapsulation
  */
