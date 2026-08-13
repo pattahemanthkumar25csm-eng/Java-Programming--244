@@ -1,5 +1,5 @@
 import java.util.Scanner;
-/*public class ConditionalState { // first program checks given number is even or odd
+public class ConditionalState { // first program checks given number is even or odd
     public static void main(String[] args) {
         Scanner eo = new Scanner(System.in);
         int n;
@@ -13,9 +13,8 @@ import java.util.Scanner;
          }
         
     }
-}*/
-/**
- * ConditionalState  second problem 
+}
+ConditionalState  second problem 
  
 public class ConditionalState {
 
@@ -38,10 +37,9 @@ else{
 }
     }
 }
-    */
+    
 
-/**
- * ConditionalState third problem is grade percentage
+ConditionalState third problem is grade percentage
  
 public class ConditionalState {
 public static void main(String[] args) {
@@ -62,11 +60,11 @@ else {
     System.out.println(" FAIL");
 }
 }    
-}*/
+}
 
-/**
- * ConditionalState 4th problem day of week
- */
+
+ ConditionalState 4th problem day of week
+ 
 public class ConditionalState {
 public static void main(String[] args) {
     
