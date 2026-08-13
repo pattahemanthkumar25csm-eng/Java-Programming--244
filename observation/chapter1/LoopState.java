@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
-/* 
-// looping statsements of 1st program
+ 
+ looping statsements of 1st program
 public class LoopState {
 
     public static void main(String[] args) {
@@ -14,10 +14,10 @@ for(int i = 1; i<= 10; i++){
     System.out.println(n + "x" + i + " = " + (n*i));
 }        
    }
-}*/
+}
 
-/**
- * LoopState of 2nd problem is numbers display
+
+ //LoopState of 2nd problem is numbers display
  
 
 public class LoopState {
@@ -33,11 +33,11 @@ public class LoopState {
         }
     }
 }
-    */
+    
 
 
-/**
- * LoopState of 3rd problem sumof naturalnumbers
+
+ // LoopState of 3rd problem sumof naturalnumbers
  
 public class LoopState {
 public static void main(String[] args) {
@@ -51,13 +51,13 @@ for (int i = 1;i<=n;i++){
 }
 System.out.println("sum = " + sum);
 }
-    
-}*/
+  
+}
 
 
 
-/**
- * LoopState 4th problem is fibonacci series
+
+ //LoopState 4th problem is fibonacci series
  */
 public class LoopState {
 public static void main(String[] args) {
