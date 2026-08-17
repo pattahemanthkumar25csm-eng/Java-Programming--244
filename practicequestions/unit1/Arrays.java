@@ -12,7 +12,7 @@ public class Arrays {
     }  
 // for each loop of static array
  /*int  a [] = { 12,23,34,45,56,67};
-for (int b : a ){
+for (int b*2 : a ){
     System.out.println(b);
 }*/
 
