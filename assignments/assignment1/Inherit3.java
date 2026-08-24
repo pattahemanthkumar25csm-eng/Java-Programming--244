@@ -1,4 +1,5 @@
-
+// hiarchearical inheritance type is 3rd type of inheritance
+// we create one super class is inherited by two sub class 
 class animal{
 String name = " lion";
 void ani(){
@@ -20,6 +21,7 @@ class sea extends animal {
 
 public class Inherit3 {
     public static void main(String[] args) {
+// create an object for 3rd class to super class 
         sea as = new sea();
         /* 
 System.out.println(as.name + " my fav animal");
