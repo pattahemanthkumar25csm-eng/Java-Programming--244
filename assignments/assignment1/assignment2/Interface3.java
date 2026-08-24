@@ -1,3 +1,9 @@
+
+// one class is inherited super class and interface also
+// class to class extends 
+// class to interface implements 
+
+
 class t{
     int y = 44;
     t(){
