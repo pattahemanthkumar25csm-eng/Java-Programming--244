@@ -1,3 +1,7 @@
+// type : 4
+// hybrid inheritance of using two types of inheritance are used 
+//! single and multi inheritance are used 
+// single inheritance 
 class fir{
     int a =10, b=90;
     void rif(){
@@ -10,7 +14,7 @@ class sec extends fir{
         System.out.println(" th eresult is " + (c+d));
     }
 }
-
+// multi inheritance are starting 
 class thi extends sec{
     String name ="heamnth , phk";
     
@@ -27,6 +31,7 @@ class four extends sec{
 
 public class Inherit4 {
     public static void main(String[] args) {
+// we can create object for 4 th sub class 
         four oj = new four();
         oj.rouf();
     oj.ces();
