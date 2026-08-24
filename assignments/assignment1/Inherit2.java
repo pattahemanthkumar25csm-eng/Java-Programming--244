@@ -1,3 +1,5 @@
+// it is second type of inheritance is multi inheritance 
+// create three class one class is inherited another class and another class is inherited by other class 
 class animal{
 String name = " lion";
 void ani(){
@@ -19,7 +21,9 @@ class sea extends bird {
 
 public class Inherit2 {
     public static void main(String[] args) {
-        sea as = new sea();
+        
+// we create an object 3 rd class
+sea as = new sea();
         /* 
 System.out.println(as.name + " my fav animal");
 System.out.println(as.names + "my fav bird");
