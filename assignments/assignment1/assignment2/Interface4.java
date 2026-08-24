@@ -1,3 +1,8 @@
+//!one class is taking by inherited of one super class and multiple interfaces 
+// class to class and extends 
+//class to interfaces implements
+
+
 class t{
     int y = 44;
     t(){
