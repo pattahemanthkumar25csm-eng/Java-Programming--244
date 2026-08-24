@@ -1,3 +1,5 @@
+// two interfaces are inherited by one class by using implements keyword 
+
 interface one{
     int a =244;
     void at();
@@ -21,6 +23,7 @@ public void ta(){
 
 public class Interface1 {
     public static void main(String[] args) {
+// we create an object for class
         many m = new many();
         System.out.println(m.a);
         m.at();
