@@ -1,3 +1,7 @@
+// multi interfaces are inherited are one  class and divide into last interface are implemented by d interface
+
+
+
 interface a{
     int x = 44;
     void it();
@@ -37,7 +41,7 @@ System.out.println(b);
 }
 public class Interface2 {
     public static void main(String[] args) {
-        
+    // we  can create an object for Many class
 many n = new many();
 System.out.println(n.y);
 System.out.println(n.x);
